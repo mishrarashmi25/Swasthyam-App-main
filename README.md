@@ -1,5 +1,5 @@
 # Swasthyam
-A flutter app for detecting the probablistic diseases in patients using Machine Learning. Made during Hackout 2020 
+A flutter app for detecting the probablistic diseases in patients using Machine Learning.
 
 ## Idea motivation and solution
 The architecture of our healthcare ecosystem is divided into three layers:-
